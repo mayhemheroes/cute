@@ -1,4 +1,4 @@
-package fuzz
+package fuzzCute
 
 import "strconv"
 import "github.com/ozontech/cute/asserts/json"
